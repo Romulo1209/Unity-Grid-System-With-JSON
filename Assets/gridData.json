@@ -1,0 +1,2056 @@
+{
+    "GridHeight": 10,
+    "GridWidth": 10,
+    "GridLines": [
+        {
+            "Line": "Line 0",
+            "_GridLines": [
+                {
+                    "Position": "0 0",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 0,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -839852
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 0",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 0,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -839864
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 0",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 0,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -839876
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 0",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 0,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -839918
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 0",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 0,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -839932
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 0",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 0,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -839942
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 0",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 0,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -839952
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 0",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 0,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -839962
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 0",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 0,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -839972
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 0",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 0,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -839982
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 1",
+            "_GridLines": [
+                {
+                    "Position": "0 1",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 1,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -839992
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 1",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 1,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840002
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 1",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 1,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840012
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 1",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 1,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840022
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 1",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 1,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840032
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 1",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 1,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840042
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 1",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 1,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840052
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 1",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 1,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840062
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 1",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 1,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840072
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 1",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 1,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840082
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 2",
+            "_GridLines": [
+                {
+                    "Position": "0 2",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 2,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -840092
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 2",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 2,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840102
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 2",
+                    "GridName": "Casa Do Jorge",
+                    "GridDescription": "Uma Super Casinha doida!",
+                    "GridOwner": "Jorge",
+                    "GridSize": "3 x 3",
+                    "GridPositionY": 2,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840112
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 2",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 2,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840122
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 2",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 2,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840132
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 2",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 2,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840142
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 2",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 2,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840152
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 2",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 2,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840162
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 2",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 2,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840172
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 2",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 2,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840182
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 3",
+            "_GridLines": [
+                {
+                    "Position": "0 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -840192
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840202
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840212
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840222
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840232
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840242
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840252
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840262
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840272
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 3",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 3,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840282
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 4",
+            "_GridLines": [
+                {
+                    "Position": "0 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -840292
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840302
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840312
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840322
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840332
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840342
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840352
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840362
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840372
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 4",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 4,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840382
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 5",
+            "_GridLines": [
+                {
+                    "Position": "0 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -840392
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840402
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840412
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840422
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840432
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840442
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840452
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840462
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840472
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 5",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 5,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840482
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 6",
+            "_GridLines": [
+                {
+                    "Position": "0 6",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 6,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -840492
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 6",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 6,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840502
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 6",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 6,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840512
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 6",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 6,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840522
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 6",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 6,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840532
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 6",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 6,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840542
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 6",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 6,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840552
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 6",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 6,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840562
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 6",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 6,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840572
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 6",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 6,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840582
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 7",
+            "_GridLines": [
+                {
+                    "Position": "0 7",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 7,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -840592
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 7",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 7,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840602
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 7",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 7,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840612
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 7",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 7,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840622
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 7",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 7,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840632
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 7",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 7,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840642
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 7",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 7,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840652
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 7",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 7,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840662
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 7",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 7,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840672
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 7",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 7,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840682
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 8",
+            "_GridLines": [
+                {
+                    "Position": "0 8",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 8,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -840692
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 8",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 8,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840702
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 8",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 8,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840712
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 8",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 8,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840722
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 8",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 8,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840732
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 8",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 8,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840742
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 8",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 8,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840752
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 8",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 8,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840762
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 8",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 8,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840772
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 8",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 8,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840782
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        },
+        {
+            "Line": "Line 9",
+            "_GridLines": [
+                {
+                    "Position": "0 9",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 9,
+                    "GridPositionX": 0,
+                    "obj": {
+                        "instanceID": -840792
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "1 9",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 9,
+                    "GridPositionX": 1,
+                    "obj": {
+                        "instanceID": -840802
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "2 9",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 9,
+                    "GridPositionX": 2,
+                    "obj": {
+                        "instanceID": -840812
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "3 9",
+                    "GridName": "Rodolfo's House",
+                    "GridDescription": "Rodolfo",
+                    "GridOwner": "Rodolfo",
+                    "GridSize": "4x4",
+                    "GridPositionY": 9,
+                    "GridPositionX": 3,
+                    "obj": {
+                        "instanceID": -840822
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "4 9",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 9,
+                    "GridPositionX": 4,
+                    "obj": {
+                        "instanceID": -840832
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "5 9",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 9,
+                    "GridPositionX": 5,
+                    "obj": {
+                        "instanceID": -840842
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "6 9",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 9,
+                    "GridPositionX": 6,
+                    "obj": {
+                        "instanceID": -840852
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "7 9",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 9,
+                    "GridPositionX": 7,
+                    "obj": {
+                        "instanceID": -840862
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "8 9",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 9,
+                    "GridPositionX": 8,
+                    "obj": {
+                        "instanceID": -840872
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                },
+                {
+                    "Position": "9 9",
+                    "GridName": "",
+                    "GridDescription": "",
+                    "GridOwner": "",
+                    "GridSize": "",
+                    "GridPositionY": 9,
+                    "GridPositionX": 9,
+                    "obj": {
+                        "instanceID": -840882
+                    },
+                    "Up": false,
+                    "Right": false,
+                    "Down": false,
+                    "Left": false,
+                    "SpriteOrientation": 9,
+                    "TileSprite": {
+                        "instanceID": 15734
+                    }
+                }
+            ]
+        }
+    ]
+}

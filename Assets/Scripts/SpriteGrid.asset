@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 430b19f1d2971384ca15682bdc396338, type: 3}
+  m_Name: SpriteGrid
+  m_EditorClassIdentifier: 
+  FullBox: {fileID: 6234176133674011997, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  UpperLeftBox: {fileID: -1790145400590651902, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  UpperMiddleBox: {fileID: 1669587765549309381, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  UpperRightBox: {fileID: 1937871576842212991, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  MiddleLeftBox: {fileID: 3117725176291713478, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  MiddleBox: {fileID: 4145614996422691048, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  MiddleRightBox: {fileID: 3430759530322245992, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  BottonLeftBox: {fileID: 3020591298559086837, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  BottonMiddleBox: {fileID: 5330010876497713853, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
+  BottonRightBox: {fileID: 955773385365470694, guid: 8d5c880aebb55984da482824edd3b0db, type: 3}
